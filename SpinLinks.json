@@ -1,15 +1,16 @@
 {
-   "Collect 25 Spins":[
-   {
-      "name":"Collect 25 Spins",
-      "url":https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_INSUKUBio_20210812,
-    
-   },
-  
-    "Collect 20 Spins":
-   {
-      "name":"Collect 25 Spins",
-      "url":https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_INSUKUBio_20210812,
-    
-   },]
+   
+"fruits":[
+
+   "25 Million",
+   "25M Coins",
+]
+   
+"urls":[
+
+   "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_INSUKUBio_20210812",
+   "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBYUJdQV_20210812",
+]   
+   
+   
 }
